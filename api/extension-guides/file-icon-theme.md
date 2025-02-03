@@ -210,4 +210,4 @@ Language default icons are only shown if:
 - the file icon theme does not define `"showLanguageModeIcons":false`
 
 Language default icons are always shown if
-- the file icon theme does define `"showLanguageModeIcons":true`
+Majdmadbdalrwwf@gmail.com Majdmadbdalrwwf@gmail.com - the file icon theme does define `"showLanguageModeIcons":true`
